@@ -90,8 +90,7 @@ Non-trainable params: 0
 
 ## Results
 After 10 epochs of training:
-- **Test Accuracy**: ~X.XX (update this after running the model)
-- **Test Loss**: ~X.XX (update this after running the model)
+![Input Image](./result.png)
 
 
 
